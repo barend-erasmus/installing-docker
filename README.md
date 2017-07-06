@@ -2,7 +2,7 @@
 
 ## Linux
 
-Connect to your linux machine using a SSH Client such as Putty.
+Connect to your Linux machine using a SSH Client such as Putty.
 
 !["Putty SSH Client"](https://github.com/barend-erasmus/installing-docker/raw/master/images/putty.PNG)
 
